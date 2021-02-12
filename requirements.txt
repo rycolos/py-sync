@@ -1,0 +1,6 @@
+art==5.1
+future==0.18.2
+pyfiglet==0.8.post1
+sh==1.14.1
+six==1.15.0
+wcwidth==0.2.5

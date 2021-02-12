@@ -9,7 +9,7 @@ from sh import rsync
 from time import sleep
 from datetime import date
 
-configPath = 'PyBackup.conf'
+configPath = 'py-sync.conf'
 
 #func: check if directory exists
 def pathExist(path):
